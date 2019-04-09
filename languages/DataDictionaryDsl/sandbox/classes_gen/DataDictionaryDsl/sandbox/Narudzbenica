@@ -1,0 +1,14 @@
+Created data dictionary for: Narudzbenica
+Start: Generated structures
+
+  Osnovni podaci
+    <Broj Porudzbenice,Datum>
+  Podaci o kupcu
+    <Sifra kupca,Naziv kupca,Adresa Kupca>
+  Lista Artikala
+    {  <Redni broj,Sifra artikla,Naziv artikla,Kolicina>}
+  PoslovniPartneri
+    <SifraPP,NazivPP,AdresaPP,  [ImeKontaktOsobe,Pol]>
+  Dodatno
+    /PopustKupon,OpisNarudzbenice/
+End: generated structures

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <root>
+    <file name="ActionAspectDescriptorImpl.java">
+      <unit at="13,0,36,0" name="DataDictionaryDsl.actions.ActionAspectDescriptorImpl" />
+    </file>
+  </root>
+  <root nodeRef="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/2020121436165931316">
+    <file name="char_factory.java">
+      <node id="2020121436165931332" at="13,91,14,172" concept="0" />
+      <node id="2020121436165931317" at="13,0,16,0" concept="1" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="2020121436165931317" at="13,91,14,172" />
+      <scope id="2020121436165931317" at="13,0,16,0">
+        <var name="enclosingNode" id="2020121436165931317" />
+        <var name="model" id="2020121436165931317" />
+        <var name="newNode" id="2020121436165931317" />
+        <var name="sampleNode" id="2020121436165931317" />
+      </scope>
+      <unit id="2020121436165931317" at="12,0,17,0" name="DataDictionaryDsl.actions.char_factory$NodeFactory_2020121436165931317" />
+      <unit id="2020121436165931316" at="11,0,18,0" name="DataDictionaryDsl.actions.char_factory" />
+    </file>
+  </root>
+  <root nodeRef="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/2020121436166587901">
+    <file name="integer_factory.java">
+      <node id="2020121436166587917" at="13,91,14,171" concept="0" />
+      <node id="2020121436166587902" at="13,0,16,0" concept="1" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="2020121436166587902" at="13,91,14,171" />
+      <scope id="2020121436166587902" at="13,0,16,0">
+        <var name="enclosingNode" id="2020121436166587902" />
+        <var name="model" id="2020121436166587902" />
+        <var name="newNode" id="2020121436166587902" />
+        <var name="sampleNode" id="2020121436166587902" />
+      </scope>
+      <unit id="2020121436166587902" at="12,0,17,0" name="DataDictionaryDsl.actions.integer_factory$NodeFactory_2020121436166587902" />
+      <unit id="2020121436166587901" at="11,0,18,0" name="DataDictionaryDsl.actions.integer_factory" />
+    </file>
+  </root>
+  <root nodeRef="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/510907218762934094">
+    <file name="node_factories_StructureDefinition.java">
+      <node id="510907218762981828" at="14,91,15,43" concept="2" />
+      <node id="510907218762934109" at="15,43,16,261" concept="0" />
+      <node id="510907218762934095" at="14,0,18,0" concept="1" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="510907218762934095" at="14,91,16,261">
+        <var name="nodeDD" id="510907218762981831" />
+      </scope>
+      <scope id="510907218762934095" at="14,0,18,0">
+        <var name="enclosingNode" id="510907218762934095" />
+        <var name="model" id="510907218762934095" />
+        <var name="newNode" id="510907218762934095" />
+        <var name="sampleNode" id="510907218762934095" />
+      </scope>
+      <unit id="510907218762934095" at="13,0,19,0" name="DataDictionaryDsl.actions.node_factories_StructureDefinition$NodeFactory_510907218762934095" />
+      <unit id="510907218762934094" at="12,0,20,0" name="DataDictionaryDsl.actions.node_factories_StructureDefinition" />
+    </file>
+  </root>
+  <root nodeRef="r:a3764f3e-30b7-4d41-8412-59e5fe9e6168(DataDictionaryDsl.actions)/8815957381151922623">
+    <file name="field_factory.java">
+      <node id="2020121436155372348" at="15,91,16,117" concept="2" />
+      <node id="8815957381151930986" at="16,117,17,258" concept="0" />
+      <node id="8815957381151922624" at="15,0,19,0" concept="1" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="8815957381151922624" at="15,91,17,258">
+        <var name="root" id="2020121436155372351" />
+      </scope>
+      <scope id="8815957381151922624" at="15,0,19,0">
+        <var name="enclosingNode" id="8815957381151922624" />
+        <var name="model" id="8815957381151922624" />
+        <var name="newNode" id="8815957381151922624" />
+        <var name="sampleNode" id="8815957381151922624" />
+      </scope>
+      <unit id="8815957381151922624" at="14,0,20,0" name="DataDictionaryDsl.actions.field_factory$NodeFactory_8815957381151922624" />
+      <unit id="8815957381151922623" at="13,0,21,0" name="DataDictionaryDsl.actions.field_factory" />
+    </file>
+  </root>
+</debug-info>
+

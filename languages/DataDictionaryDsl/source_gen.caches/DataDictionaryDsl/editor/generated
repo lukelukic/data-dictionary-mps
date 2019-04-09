@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-aroub4h4p0140djk5hdg8xa14d6277h">
+  <files names="Aggregation_Editor.java:Aggregation_EditorBuilder_a.java:Boolean_Editor.java:Boolean_EditorBuilder_a.java:Char_Editor.java:Char_EditorBuilder_a.java:DataDictionary_Editor.java:DataDictionary_EditorBuilder_a.java:DataDictionary_TransformationMenu.java:DateTime_Editor.java:DateTime_EditorBuilder_a.java:Domain_Editor.java:Domain_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:ExclusiveSpecialization_StyleSheet.java:Exclusive_Editor.java:Exclusive_EditorBuilder_a.java:FieldDefinition_Editor.java:FieldDefinition_EditorBuilder_a.java:FieldDefinition_SubstituteMenu.java:Field_Editor.java:Field_EditorBuilder_a.java:Field_InspectorBuilder_a.java:Integer_Editor.java:Integer_EditorBuilder_a.java:NonExclusive_Editor.java:NonExclusive_EditorBuilder_a.java:Semantic_Editor.java:Semantic_EditorBuilder_a.java:Set_Editor.java:Set_EditorBuilder_a.java:StructureDefinition_Editor.java:StructureDefinition_EditorBuilder_a.java:StructureDefinition_InspectorBuilder_a.java:Text_Editor.java:Text_EditorBuilder_a.java" />
+</product>
+

@@ -1,0 +1,50 @@
+Created data dictionary for: Narudzbenica
+Start: Generated structures
+
+  Osnovni podaci
+    <Broj Porudzbenice,Datum>  
+  Field Definitions:
+    Broj Porudzbenice : INTEGER(2)
+    Datum : DATETIME
+
+  Podaci o kupcu
+    <Sifra kupca,Naziv kupca,Adresa Kupca>  
+  Field Definitions:
+    Sifra kupca : CHAR(20)
+    Naziv kupca : CHAR(30)
+    Adresa Kupca : CHAR(100)
+
+  Lista Artikala
+    {  <Redni broj,Sifra artikla,Naziv artikla,Kolicina>  }
+  Field Definitions:
+    Redni broj : Naziv Domena : RB Predefinisani Domen: INTEGER(4) Ogranicenje: > 0
+    Sifra artikla : CHAR(8)
+    Kolicina : Naziv Domena : Kolicina Predefinisani Domen: INTEGER(3) Ogranicenje: > 0 < UkupnoDostupnihProizvoda
+    Naziv artikla : CHAR(40)
+
+  PoslovniPartneri
+    <SifraPP,NazivPP,AdresaPP,  [ImeKontaktOsobe,Pol]>  
+  Field Definitions:
+    SifraPP : CHAR(20)
+    NazivPP : CHAR(20)
+    AdresaPP : CHAR(100)
+    ImeKontaktOsobe : Naziv Domena : Ime Predefinisani Domen: CHAR(13) Ogranicenje: [A-Z][a-z]{2,}
+    Pol : Naziv Domena : Pol Predefinisani Domen: CHAR(6) Ogranicenje: ("Musko", "Zensko")
+
+  Dodatno
+    /PopustKupon,OpisNarudzbenice/
+  Field Definitions:
+    OpisNarudzbenice : TEXT
+    PopustKupon : CHAR(8)
+
+  Student
+    <Broj Indeksa,Godina Upisa,Ime,Prezime,NacinFinansiranja>  
+  Field Definitions:
+    Ime : CHAR(13)
+    Prezime : CHAR(13)
+    NacinFinansiranja : Naziv Domena : NacinFinansiranja Predefinisani Domen: CHAR(3) Ogranicenje: ("FIB", "SFS")
+    Broj Indeksa : Naziv Domena : BrojIndeksa Predefinisani Domen: CHAR(6) Ogranicenje: /^[0-9]{1,3}/[0-9]{2}$/
+    Godina Upisa : DATETIME
+
+
+End: generated structures

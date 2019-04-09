@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-4dobdopuu6srd77ge327izs1iupu7dd">
+  <files names="TypesystemDescriptor.java:check_Field_length_NonTypesystemRule.java:check_StructureDefinition_NonTypesystemRule.java:check_all_fields_have_domain_NonTypesystemRule.java:check_domain_can_reference_field_NonTypesystemRule.java:check_field_uniqueness_NonTypesystemRule.java:check_if_empty_structure_NonTypesystemRule.java:quick_fix_remove_empty_structure_QuickFix.java:quick_fix_remove_field_definition_QuickFix.java" />
+</product>
+

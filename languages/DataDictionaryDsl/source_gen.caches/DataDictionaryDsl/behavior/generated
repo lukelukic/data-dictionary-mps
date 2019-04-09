@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="-19yjbokxzm3m844m25yfvjppt6ol5hi">
+  <files names="Aggregation__BehaviorDescriptor.java:BehaviorAspectDescriptor.java:Boolean__BehaviorDescriptor.java:Char__BehaviorDescriptor.java:DataDictionary__BehaviorDescriptor.java:DateTime__BehaviorDescriptor.java:Domain__BehaviorDescriptor.java:Exclusive__BehaviorDescriptor.java:Field__BehaviorDescriptor.java:IAbstractElement__BehaviorDescriptor.java:IAbstractStructure__BehaviorDescriptor.java:Integer__BehaviorDescriptor.java:NonExclusive__BehaviorDescriptor.java:Predefined__BehaviorDescriptor.java:Set__BehaviorDescriptor.java:StructureDefinition__BehaviorDescriptor.java:Text__BehaviorDescriptor.java" />
+</product>
+
